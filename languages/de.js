@@ -155,7 +155,7 @@ module.exports = {
       embed: {
           error: "Fehler",
           noVoiceChannel: "- Sie müssen sich in einem Sprachkanal befinden, um diesen Befehl zu nutzen.",
-          noLavalinkNodes: "- Keine verfügbaren Lavalink-Nodes zur Verarbeitung der Anfrage.",
+          noLavalinkNodes: "- Keine verfügbaren BeatzoneFMmusic zur Verarbeitung der Anfrage.",
           noResults: "- Keine Ergebnisse gefunden.",
           requestUpdated: "Anfrage Aktualisiert!",
           successProcessed: "- Ihre Anfrage wurde erfolgreich verarbeitet.\n- Bitte nutzen Sie die Schaltflächen zur Steuerung der Wiedergabe",
@@ -255,7 +255,7 @@ module.exports = {
     support: {
       embed: {
           authorName: "Support-Server",
-          description: "➡️ **Treten Sie unserem Discord-Server für Support und Updates bei:**\n- Discord - {supportServerLink}\n\n➡️ **Folgen Sie uns auf:**\n- GitHub - {githubLink}\n- Replit - {replitLink}\n- YouTube - {youtubeLink}",
+          description: "➡️ **Treten Sie unserem Discord-Server für Support und Updates bei:**\n- Discord - {supportServerLink}\n\n,
           error: "Fehler",
           errorDescription: "- Bei der Verarbeitung Ihrer Anfrage ist ein Fehler aufgetreten."
       }
