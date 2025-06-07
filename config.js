@@ -3,7 +3,7 @@
 module.exports = {
   TOKEN: "",
   language: "en",
-  ownerID: ["1004206704994566164", ""], 
+  ownerID: ["1376651913705295922", ""], 
   mongodbUri : "",
   spotifyClientId : "",
   spotifyClientSecret : "",
@@ -12,7 +12,7 @@ module.exports = {
   embedColor: "#1db954",
   activityName: "Galaxieflawa", 
   activityType: "LISTENING",  // Available activity types : LISTENING , PLAYING
-  SupportServer: "https://discord.gg/xQF9f9yUEM",
+  SupportServer: "https://discord.gg/kgCSKWBDSE",
   embedTimeout: 5, 
   errorLog: "", 
   nodes: [
