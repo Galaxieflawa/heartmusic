@@ -10,8 +10,8 @@ module.exports = {
   setupFilePath: './commands/setup.json',
   commandsDir: './commands',  
   embedColor: "#1db954",
-  activityName: "Galaxieflawa", 
-  activityType: "LISTENING",  // Available activity types : LISTENING , PLAYING
+  activityName: "BeatzoneFM.de", 
+  activityType: "PLAYING",  // Available activity types : LISTENING , PLAYING
   SupportServer: "https://discord.gg/kgCSKWBDSE",
   embedTimeout: 5, 
   errorLog: "", 
